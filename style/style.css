@@ -1,3 +1,27 @@
-h1{
-    color: red;
+.container-fluid{
+    border: 2px dashed black;
+    height: 500px;
+}
+.container{
+    border: 2px dashed yellowgreen;
+}
+
+.my-brd{
+    border: 1px dashed goldenrod;
+}
+.my-brd-2{
+    border: 1px dashed red;
+}
+.my-image{
+    border: 1px solid royalblue;
+    height: 100px;
+    width: 150px;
+}
+section{
+    border: 1px dashed gray;
+    /* height: 500px; */
+}
+
+.my-head-col{
+    height: 100px;
 }
