@@ -14,8 +14,8 @@
 }
 .my-image{
     border: 1px solid royalblue;
-    height: 100px;
-    width: 150px;
+    /* height: 100px;
+    width: 150px; */
 }
 section{
     border: 1px dashed gray;
@@ -24,4 +24,15 @@ section{
 
 .my-head-col{
     height: 100px;
+}
+
+
+
+@media screen and ( max-width: 576px){    
+    .my-min{
+        background-color: red;
+        min-width: 100px;
+        max-width: 100PX;
+    }
+    
 }
