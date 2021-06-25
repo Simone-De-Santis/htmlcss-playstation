@@ -35,7 +35,23 @@ section{
 }
 .fas{
     font-size: 1.5em;
-
+}
+#jumbo-1{
+    margin-top: 7rem;
+    height: 675px;
+    background-image: url("../img/jumbo-bg.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#text-jumbo-1{
+ color: white;
+}
+#btn-sell-now{
+    background-color: tomato;
+}
+#returnal-logo{
+    width: 100%;
 }
 
 
