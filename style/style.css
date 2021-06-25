@@ -1,6 +1,6 @@
 .container-fluid{
     border: 2px dashed black;
-    height: 500px;
+    
 }
 .container{
     border: 2px dashed yellowgreen;
@@ -23,8 +23,23 @@ section{
 }
 
 .my-head-col{
-    height: 150px;
+    /* height: 150px; */
 }
+
+
+
+/*! regole ok */
+
+#icon-header-top-sony{
+    height: 15px;
+}
+.fas{
+    font-size: 1.5em;
+
+}
+
+
+
 
 
 
