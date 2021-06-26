@@ -44,6 +44,13 @@ section{
     background-position: center;
     background-repeat: no-repeat;
 }
+#jumbo-2{
+    height: 675px;
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 #text-jumbo-1{
  color: white;
 }
