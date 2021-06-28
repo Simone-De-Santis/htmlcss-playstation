@@ -57,9 +57,6 @@ section{
 #btn-sell-now{
     background-color: tomato;
 }
-#returnal-logo{
-    width: 100%;
-}
 img{
     max-width: 100%;
 }
@@ -72,4 +69,16 @@ img{
 }
 .my-radius-card{
     border-radius: 40px;
+}
+#mini-jumbo{
+}
+.my-bc-mini-jumbo{
+    background-color:#bebcbb ;
+
+}
+
+.my-btn-mini-jumbo{
+    background-color: #d9dadc;
+    color: #2d64e6;
+
 }
