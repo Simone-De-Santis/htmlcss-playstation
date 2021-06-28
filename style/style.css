@@ -67,8 +67,7 @@ img{
     background-color: #1f1f1f;
     color: white;
 }
-#card-junbo-2{
-    background-color: #1f1f1f;
+.no-border{
     border: none;
 }
 .my-radius-card{
