@@ -63,3 +63,14 @@ section{
 img{
     max-width: 100%;
 }
+#card-container-jumbo-2{
+    background-color: #1f1f1f;
+    color: white;
+}
+#card-junbo-2{
+    background-color: #1f1f1f;
+    border: none;
+}
+.my-radius-card{
+    border-radius: 40px;
+}
