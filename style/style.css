@@ -51,11 +51,11 @@
     background-position: center;
     background-repeat: no-repeat;
 }
-#text-jumbo-1{
+.text-jumbo{
  color: white;
  width: 100%;
 }
-#btn-sell-now{
+.btn-sell-now{
     background-color: tomato;
 }
 img{
@@ -96,12 +96,9 @@ img{
     background-color: #00439c;
     color: white;
 }
-footer .row a{
+.tdn-cw{
     text-decoration: none;
     color: white;
-}
-footer .row li{
-    list-style-type: none;
 }
 
 
@@ -119,7 +116,7 @@ footer .row li{
     border: 8px double #00439c;
     padding: calc(.375rem - 6px) calc(.75rem - 6px);
 }
-#btn-sell-now:hover{ 
+.btn-sell-now:hover{ 
     border: 8px double black;
     padding: calc(.375rem - 6px) calc(.75rem - 6px);
 }
